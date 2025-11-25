@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #dfd1d1;
+  color: #222;
+}
+
+header {
+  background: #700909;
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+.cta {
+  margin-top: 20px;
+  padding: 12px 25px;
+  font-size: 16px;
+  background: white;
+  color: #2d2d2d;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 850px;
+  margin: auto;
+}
+
+h2 {
+  border-left: 5px solid #8d1111;
+  padding-left: 10px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+a {
+  color: #2c4ee4;
+  text-decoration: none;
+}
+
+.prof {
+    width: 200px;
+    border: 1px solid black;
+}
+
+
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color : white;
+  background: #5e0808;
+  margin-top: 40px;
+}
